@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<Case>
+    <CompoundAttribute isId="false">
+        <attribType>CaseSolution</attribType>
+        <name>Solution</name>
+        <SimpleAttribute isId="false">
+            <attribType>java.lang.Integer</attribType>
+            <name>Price</name>
+        </SimpleAttribute>
+        <SimpleAttribute isId="true">
+            <attribType>java.lang.String</attribType>
+            <name>Hotel</name>
+        </SimpleAttribute>
+    </CompoundAttribute>
+    <CompoundAttribute isId="false">
+        <attribType/>
+        <name>Result</name>
+    </CompoundAttribute>
+    <CompoundAttribute isId="false">
+        <attribType/>
+        <name>Justification</name>
+    </CompoundAttribute>
+    <CompoundAttribute isId="false">
+        <attribType>CaseDescription</attribType>
+        <name>Description</name>
+        <SimpleAttribute isId="false">
+            <attribType>java.lang.String</attribType>
+            <name>Accomodation</name>
+        </SimpleAttribute>
+        <SimpleAttribute isId="false">
+            <attribType>java.lang.String</attribType>
+            <name>Season</name>
+        </SimpleAttribute>
+        <SimpleAttribute isId="false">
+            <attribType>java.lang.Integer</attribType>
+            <name>Duration</name>
+        </SimpleAttribute>
+        <SimpleAttribute isId="false">
+            <attribType>java.lang.String</attribType>
+            <name>Transportation</name>
+        </SimpleAttribute>
+        <SimpleAttribute isId="false">
+            <attribType>java.lang.String</attribType>
+            <name>Region</name>
+        </SimpleAttribute>
+        <SimpleAttribute isId="false">
+            <attribType>java.lang.Integer</attribType>
+            <name>NumberOfPersons</name>
+        </SimpleAttribute>
+        <SimpleAttribute isId="false">
+            <attribType>java.lang.String</attribType>
+            <name>HolidayType</name>
+        </SimpleAttribute>
+        <SimpleAttribute isId="true">
+            <attribType>java.lang.String</attribType>
+            <name>JourneyID</name>
+        </SimpleAttribute>
+    </CompoundAttribute>
+</Case>

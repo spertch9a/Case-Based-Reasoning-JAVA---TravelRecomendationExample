@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<SimilarityConfig>
+    <Mapping attribute="Description.holidayType" function="jcolibri.method.retrieve.NNretrieval.similarity.local.Equal" weight="1.00"/>
+    <Mapping attribute="Description" function="jcolibri.method.retrieve.NNretrieval.similarity.global.Average" weight="1.00"/>
+    <Mapping attribute="Description.Duration" function="jcolibri.method.retrieve.NNretrieval.similarity.local.Equal" weight="1.00"/>
+    <Mapping attribute="Description.Region" function="jcolibri.method.retrieve.NNretrieval.similarity.local.Equal" weight="1.00"/>
+    <Mapping attribute="Description.Season" function="jcolibri.method.retrieve.NNretrieval.similarity.local.Equal" weight="1.00"/>
+    <Mapping attribute="Description.NumberOfPersons" function="jcolibri.method.retrieve.NNretrieval.similarity.local.Equal" weight="1.00"/>
+    <Mapping attribute="Description.caseId" function="jcolibri.method.retrieve.NNretrieval.similarity.local.Equal" weight="1.00"/>
+    <Mapping attribute="Description.Accomodation" function="jcolibri.method.retrieve.NNretrieval.similarity.local.Equal" weight="1.00"/>
+    <Mapping attribute="Description.duration" function="jcolibri.method.retrieve.NNretrieval.similarity.local.Equal" weight="1.00"/>
+    <Mapping attribute="Description.Transportation" function="jcolibri.method.retrieve.NNretrieval.similarity.local.Equal" weight="1.00"/>
+    <Mapping attribute="Description.HolidayType" function="jcolibri.method.retrieve.NNretrieval.similarity.local.Equal" weight="1.00"/>
+    <Mapping attribute="Description.numberOfPersons" function="jcolibri.method.retrieve.NNretrieval.similarity.local.Equal" weight="1.00"/>
+    <Mapping attribute="Description.accomodation" function="jcolibri.method.retrieve.NNretrieval.similarity.local.Equal" weight="1.00"/>
+    <Mapping attribute="Description.region" function="jcolibri.method.retrieve.NNretrieval.similarity.local.Equal" weight="1.00"/>
+    <Mapping attribute="Description.season" function="jcolibri.method.retrieve.NNretrieval.similarity.local.Equal" weight="1.00"/>
+</SimilarityConfig>

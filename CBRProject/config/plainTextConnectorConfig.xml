@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<TextFileConfiguration>
+    <FilePath>C:\Users\Administrateur\Desktop\tavelexample.txt</FilePath>
+    <Delimiters>,</Delimiters>
+    <DescriptionClassName>representation.CaseDescription</DescriptionClassName>
+    <DescriptionMappings>
+        <Map>JourneyID</Map>
+        <Map>HolidayType</Map>
+        <Map>NumberOfPersons</Map>
+        <Map>Region</Map>
+        <Map>Transportation</Map>
+        <Map>Duration</Map>
+        <Map>Season</Map>
+        <Map>Accomodation</Map>
+    </DescriptionMappings>
+    <SolutionClassName>representation.CaseSolution</SolutionClassName>
+    <SolutionMappings>
+        <Map>Price</Map>
+        <Map>Hotel</Map>
+    </SolutionMappings>
+</TextFileConfiguration>
